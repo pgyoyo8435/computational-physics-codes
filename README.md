@@ -26,7 +26,7 @@ For Jupyter Notebooks, install [JupyterLab](https://jupyter.org/) or [Anaconda](
 - Codes are for educational, non-commercial use.
 - Feel free to fork, cite, or adapt with attribution.
 
-**Author**: PG735 ([email or academic handle])
+**Author**: prashantgupta8435475211@gmail.com
 
 **License**: MIT
 
