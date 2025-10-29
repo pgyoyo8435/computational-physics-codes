@@ -28,6 +28,11 @@ For Jupyter Notebooks, install [JupyterLab](https://jupyter.org/) or [Anaconda](
 
 **Author**: prashantgupta8435475211@gmail.com
 
+## 🗂 Assignment PDFs
+
+Each Lab folder have PDFs (e.g., `TA_1.pdf`) and they contain the original or simillar assignment problems. Match each lab code file to its corresponding problem using these documents.
+
+
 **License**: MIT
 
 ---
